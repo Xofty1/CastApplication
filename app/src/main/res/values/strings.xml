@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">CastApplication</string>
+    <string name="app_name">Google Cast</string>
     <string name="cast">Cast</string>
 </resources>
